@@ -1,25 +1,15 @@
 // SPDX-License-Identifier: MIT
-
 pragma solidity ^0.8.17;
 
 contract ControlStructures {
-    function fizzBuzz(uint _number) external pure returns (string memory) {
-        if (_number % 3 == 0) {
-            return "Fizz";
-        }
-
-        if (_number % 5 == 0) {
-            return "Buzz";
-        }
-
-        if (_number % 15 == 0) {
-            return "FizzBuzz";
-        }
-
-        return "Splat";
+    function fizzBuzz(uint _number) public pure returns (string memory) {
+        if (_number % 3 == 0 && _number % 5 == 0) {            return "FizzBuzz";
+        } else if (_number % 3 == 0) {            return "Fizz";
+        } else if (_number % 5 == 0) {            return "Buzz";
+        } else {            return "Splat";
+        }    
     }
-
-    error AfterHours(uint _time);
+ error AfterHours(uint _time);
 
     function doNotDisturb(uint _time) external pure returns (string memory) {
         assert(_time < 2400);
