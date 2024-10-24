@@ -11,6 +11,7 @@ https://docs.base.org/base-learn/docs/exercise-contracts/
 # here we go
 1. Deploying to a Testnet (BasicMath)
 https://docs.base.org/base-learn/docs/deployment-to-testnet/deployment-to-testnet-exercise
+
 code https://sepolia.basescan.org/address/0x303d880a0a2bb990b147b1e7f3ba7652909916ef#code
 
 2. Control Structures
@@ -18,6 +19,7 @@ https://docs.base.org/base-learn/docs/control-structures/control-structures-exer
 
 3. Storage
 https://docs.base.org/base-learn/docs/storage/storage-exercise/
+
 code https://sepolia.basescan.org/address/0x7389f7ed35c85809165bd52b316261b339b20e6d#code#F1#L60
 
 4. Arrays (ArraysExercise)
