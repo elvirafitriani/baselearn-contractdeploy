@@ -74,7 +74,7 @@ let's compile and deploy here https://remix.ethereum.org/
 
    code https://sepolia.basescan.org/address/0xc3182392805748e690366d6c15e7a9dc9032d3ba#code
 
-10. The "new" keyword (
+10. The "new" keyword (New Exercise)
 
     https://docs.base.org/base-learn/docs/new-keyword/new-keyword-exercise/
 
