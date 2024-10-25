@@ -53,13 +53,36 @@ https://docs.base.org/base-learn/docs/exercise-contracts/
    Deploy the 'EngineeringManager' contract using the values: 54321, 11111, 200000.
    Deploy the 'InheritanceSubmission' contract using the addresses of the 'Salesperson' and 'EngineeringManager' contracts.
 
-8. Import
+8. Import (ImportsExercise)
 
    https://docs.base.org/base-learn/docs/imports/imports-exercise/
 
    code https://sepolia.basescan.org/address/0x0d82a3d9df0a390f10c443c6abd8c7ae945018e6#code
 
-9. 
+9. Error Triage Exercis
+
+   https://docs.base.org/base-learn/docs/error-triage/error-triage-exercise/
+
+   code https://sepolia.basescan.org/address/0xc3182392805748e690366d6c15e7a9dc9032d3ba#code
+
+10. The "new" keyword (
+
+    https://docs.base.org/base-learn/docs/new-keyword/new-keyword-exercise/
+
+
+11. Minimal Tokens Exercise
+
+    https://docs.base.org/base-learn/docs/minimal-tokens/minimal-tokens-exercise/
+
+
+12. ERC-20 Tokens Exercise (token)
+
+    https://docs.base.org/base-learn/docs/erc-20-token/erc-20-exercise/
+    
+
+14. ERC-721 Tokens Exercise (nft)
+    
+    https://docs.base.org/base-learn/docs/erc-721-token/erc-721-exercise/
 
 
 
