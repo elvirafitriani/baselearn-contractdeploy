@@ -5,10 +5,19 @@ https://docs.base.org/base-learn/docs/welcome/
 # check your progress here
 https://docs.base.org/base-learn/progress/
 
-# for contract refferency
+# for contract refference
 https://docs.base.org/base-learn/docs/exercise-contracts/
 
-# here we go
+
+# what do we need?
+
+Prepare code.
+
+let's compile and deploy here https://remix.ethereum.org/
+
+
+
+# let's get started
 1. Deploying to a Testnet (BasicMath)
 
    https://docs.base.org/base-learn/docs/deployment-to-testnet/deployment-to-testnet-exercise
@@ -90,10 +99,9 @@ https://docs.base.org/base-learn/docs/exercise-contracts/
 
 
 
-
-
-
-
+# more refference
+https://github.com/airdroprealm/Base
+https://github.com/tadams95/Base-Camp
 
 
 
