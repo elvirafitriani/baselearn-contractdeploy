@@ -74,9 +74,10 @@ https://docs.base.org/base-learn/docs/exercise-contracts/
 
     https://docs.base.org/base-learn/docs/minimal-tokens/minimal-tokens-exercise/
 
-   code https://sepolia.basescan.org/address/0xbcea15a2c6a26a41270ee012e1fae6098df48b8a#code
+    code https://sepolia.basescan.org/address/0xbcea15a2c6a26a41270ee012e1fae6098df48b8a#code
+    
 
-12. ERC-20 Tokens Exercise (token)
+13. ERC-20 Tokens Exercise (token)
 
     https://docs.base.org/base-learn/docs/erc-20-token/erc-20-exercise/
     
